@@ -1,0 +1,29 @@
+<script type='text/javascript'>
+var jnWidth="100";
+var jnScrollAmount="10";
+var jnScrollDelay="50";
+var jnDirection="left";
+var jntargetlink="yes";
+var jnnumPosts="10";
+var jnBulletchar =">>>";
+var jnimagebullet="yes";
+var jnimgurl="http://1.bp.blogspot.com/-fKeh7aRkfVs/Tvll57YC8yI/AAAAAAAAAvY/pUwMXLHvSc8/s1600/arrowe.gif";
+var jnfontsize="16";
+var jnbgcolor="FFFFFF";
+var jnlinkcolor="FF0000";
+var jnlinkhovercolor="3366CC";
+</script><a href="http://24work.blogspot.com/" target="_blank" title="Blogger Tips and Tricks"><img src="https://bitly.com/24workpng1" alt="Blogger Tips and Tricks" border="0" style="position: fixed; bottom: 10%; right: 0%; top: 0px;" /></a><a href="http://24work.blogspot.com/" target="_blank" title="Latest Tips And Tricks"><img src="https://bitly.com/24workpng1" alt="Latest Tips And Tricks" border="0" style="position: fixed; bottom: 10%; right: 0%;" /></a><a href="http://24work.blogspot.com/" target="_blank" title="Blogger Tricks"><img src="https://bitly.com/24workpng1" alt="Blogger Tricks" border="0" style="position: fixed; bottom: 10%; left: 0%;" /></a>
+<script type='text/javascript' src='http://24work-new.googlecode.com/svn/trunk/24work-blogspot/scrolling-recent/scrolling-recent-v3-ycode.js' ></script>
+<script type='text/javascript' src="http://khmerrmutt.blogspot.com/feeds/posts/default?alt=json-in-script&callback=jnAdvRecentPostsScrollerv3&max-results=10" ></script>
+
+<style>
+#khmerrmutt {
+    background-color: lightgrey;
+    width: overflow;
+    padding: 5px;
+    border: 2px solid navy;
+    margin: 5px;
+}
+</style>
+<div id="khmerrmutt">Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+Your most unhappy customers are your greatest source of learning.As we look ahead into the next century, leaders will be those who empower others. By <b>Bill Gate</b></div>
